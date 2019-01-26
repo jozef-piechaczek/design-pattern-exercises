@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_patter_exercises.iml" filepath="$PROJECT_DIR$/design_patter_exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/state/state.iml" filepath="$PROJECT_DIR$/state/state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/template_method/template_method.iml" filepath="$PROJECT_DIR$/template_method/template_method.iml" />
     </modules>
   </component>
